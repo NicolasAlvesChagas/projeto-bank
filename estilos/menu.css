@@ -34,8 +34,9 @@ header > h1{
     margin-bottom: 20px;
     font-family: 'Unbounded', cursive;
     font-weight: normal;
-    font-size: 1.8em;
+    font-size: 1.4em;
     text-decoration: underline;
+    width: 100vw;
 }
 
 header > p{
